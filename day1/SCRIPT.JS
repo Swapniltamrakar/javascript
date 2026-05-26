@@ -7,3 +7,4 @@ const population = 13;
 console.log("country: " + country);
 console.log("continent: " + continent);
 console.log("population: " + population);  
+console.log(typeof country);
